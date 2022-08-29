@@ -1,0 +1,12 @@
+{
+    "model":{
+    "model_name" : "distilbert",
+    "model_location" : "C:/Padhai/MSCAIML/archive/pretrained",
+    "output_folder" :"C:/Padhai/MSCAIML/final_thesis/code/model_distilbert"
+},
+
+"data":{
+    "input":"cyberbullying_tweets.csv",
+    "output":"C:/Padhai/MSCAIML/final_thesis/code/output_xai"
+}
+}
